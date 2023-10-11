@@ -1,3 +1,5 @@
-# tic_tac_toe
+# Tic Tac Toe Game
 
-A new Flutter project.
+## How to run this game project:
+
+  $ flutter run
